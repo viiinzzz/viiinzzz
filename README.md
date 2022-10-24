@@ -1,7 +1,18 @@
-- 👋 Hi, I’m @viiinzzz
+- 👋 Hi, I’m viiinzzz
 - 👀 I’m interested in C# .Net Typescript Javascript Node.js Vue.js
-- 🌱 I’m currently learning MongoDB
-- 💞️ I’m looking for smart Javascript dev (Vue+Node+Sequelize) to help finish and test my Bento Solidaires website (lunch bag social trade)
+- 🌱 I like boosting my skills doing Kata
+   - Test-Driven Development
+   - Behavior-Driven Development
+   - Working on Legacy Code
+   - Pragmatic Architecture
+   - [DotNet / Java] Craft
+   - Crafting [Front / Back] End
+   - Living Documentation
+   - Agilité
+   - DevOps
+   - Cloud [Azure / AWS]
+
+- 💞️ I’m looking for smart (Type/Java)script dev (Vue+Node+Sequelize) to help finish and test my Bento Solidaires website (lunch bag social trade)
 - 📫 Reach me on Discord:v33z#3861
 
 <!---
